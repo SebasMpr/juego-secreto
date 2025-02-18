@@ -3,7 +3,7 @@
 ## 📌 Sobre el Proyecto
 **Número Secreto** es un juego sencillo e interactivo donde el jugador debe adivinar un número generado aleatoriamente por el sistema. Con cada intento, el juego proporciona pistas sobre si el número ingresado es mayor o menor que el número secreto, hasta que el jugador acierta.
 
-🚀 **Demostración Online:** [Clique aqui para jogar!](https://sebasmpr.github.io/juego-secreto/)
+🚀 **Demostración Online:** [Click aqui para jugar!](https://sebasmpr.github.io/juego-secreto/)
 
 ## 🎯 Objetivo del Juego
 El objetivo es poner a prueba la capacidad de deducción y lógica del jugador, permitiéndole intentar acertar el número en el menor número de intentos posible.
