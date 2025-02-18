@@ -27,8 +27,8 @@ El objetivo es poner a prueba la capacidad de deducción y lógica del jugador, 
 ✅ Mejora el **diseño de la interfaz** para una experiencia más intuitiva
 
 ## 📢 Como Contribuir 
-1. Haga um **fork** al proyecto
-2. Crie una **branch** (`git checkout -b minha-feature`)
+1. Haga un **fork** al proyecto
+2. Cree una **branch** (`git checkout -b minha-feature`)
 3. Realizar cambios y **commit** (`git commit -m 'Agregando nueva funcionalidad'`)
 4. Enviar cambios a GitHub (`git push origin minha-feature`)
 5. Abra un **Pull Request**
