@@ -20,7 +20,7 @@ El objetivo es poner a prueba la capacidad de deducción y lógica del jugador, 
 4. El jugador sigue intentándolo hasta conseguir el número correcto.
 5. Cuando tiene éxito, el juego muestra un mensaje de felicitación y se reinicia automáticamente.
 
-## 🔥 Melhorias Futuras _(Sugestões de Expansão)_
+## 🔥 Mejoras futuras  _(Sugerencias de Expansión)_
 ✅ Añade diferentes **niveles de dificultad** (ejemplo: fácil, medio y difícil)
 ✅ Crea un **sistema de puntuación** basado en el número de intentos
 ✅ Implementa un **temporizador** para fomentar un juego más rápido
